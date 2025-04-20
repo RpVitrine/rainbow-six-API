@@ -20,18 +20,19 @@ A API é usada pelo site [rainbow-six](https://github.com/RpVitrine/rainbow-six)
    
 2. **Acesse a pasta do projeto**  
    ```bash
-    cd rainbow-six-API
+   cd rainbow-six-API
 
 3. **(Opcional) Crie e ative um ambiente virtual**  
    ```bash
-    python -m venv env
-    source env/bin/activate    # Linux/Mac
-    env\Scripts\activate       # Windows
+   python -m venv env
+   source env/bin/activate    # Linux/Mac
+   env\Scripts\activate       # Windows
 
 4. **Instale as dependências**  
    ```bash
-    pip install flask
+   pip install flask
+   pip install selenium
 
 5. **Execute a API**
    ```bash
-    python main.py
+   python main.py
