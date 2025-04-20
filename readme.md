@@ -8,6 +8,8 @@ API em **Python** (Flask) que fornece dados dos operadores do jogo **Rainbow Six
 
 Os dados estão armazenados em um banco **SQLite** (`operators.db`).
 
+A API é usada pelo site [rainbow-six](https://github.com/RpVitrine/rainbow-six).
+
 ---
 
 ## Instalação e Execução
